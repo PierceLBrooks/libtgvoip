@@ -43,7 +43,7 @@ struct ImplDataAndroid{
 };
 
 #ifndef TGVOIP_PACKAGE_PATH
-#define TGVOIP_PACKAGE_PATH "org/telegram/messenger/voip"
+#define TGVOIP_PACKAGE_PATH "org/telegramster/messenger/voip"
 #endif
 
 #ifndef TGVOIP_PEER_TAG_VARIABLE_NAME
@@ -51,7 +51,7 @@ struct ImplDataAndroid{
 #endif
 
 #ifndef TGVOIP_ENDPOINT_CLASS
-#define TGVOIP_ENDPOINT_CLASS "org/telegram/tgnet/TLRPC$TL_phoneConnection"
+#define TGVOIP_ENDPOINT_CLASS "org/telegramster/tgnet/TLRPC$TL_phoneConnection"
 #endif
 
 using namespace tgvoip;
